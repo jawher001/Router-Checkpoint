@@ -19,6 +19,7 @@ function Addm({ handeleadd }) {
   const [title, settitle] = useState("");
   const [BIO, setbio] = useState("");
   const [Rating, setrating] = useState("");
+  const [trailer, settraler] = useState("");
 
   const [show, setShow] = useState(false);
 
@@ -32,6 +33,7 @@ function Addm({ handeleadd }) {
       posterURL: imgurl,
       description: BIO,
       rating: Rating,
+      trailer:trailer
     };
     if (!title || !imgurl || !BIO || !Rating) {
       return alert("complet the form monkey");

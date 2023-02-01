@@ -5,34 +5,35 @@ export const data = [
     description:"this movie is about monkeys rebeling agans humains",
     posterURL: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1H353emwS1armer0LK7rVb3dFuVH65D5mSQ&usqp=CAU",
     rating: 5,
-    trailer:"https://www.youtube.com/watch?v=VzDt7uBBIOI"
+    trailer:"https://www.youtube.com/embed/VzDt7uBBIOI"
 
   },
   { id: 1,
     title: "Dawn of the planet of the apes ",
     description:"this movie is the seson 2 or part of the last movie",
-    posterURL: "https://nextbestpicture.com/wp-content/uploads/2022/08/dawnoftheplanetposter_orig.jpg",
-    rating: 5
+    posterURL: "https://th.bing.com/th/id/R.fd0c91abb4278c4ebcb341c031631d2f?rik=UIz2UthwLKxOsQ&pid=ImgRaw&r=0",
+    rating: 5,
+    trailer:"https://www.youtube.com/embed/VzDt7uBBIOI"
  },
   { id: 2,
     title: "Planet of the apes",
     description:"this movie is about apes and it's old",
     posterURL: "https://ievenn.com/wp-content/uploads/planet-of-the-apes-1968-ievenn-1.jpg",
     rating: 4,
-    trailer:"https://www.youtube.com/watch?v=k0-dUM_A-Cg"
+    trailer:"https://www.youtube.com/embed/VzDt7uBBIOI"
 },
   { id: 3,
     title: "Avengers",
     description:"No apes so 0 rating",
     posterURL: "https://www.presse-citron.net/app/uploads/2019/05/Affiche-nouvelle-endgame-presse-citron.png",
     rating: 0,
-    trailer:"https://www.youtube.com/watch?v=eOrNdBpGMv8"
+    trailer:"https://www.youtube.com/embed/VzDt7uBBIOI"
  },
  { id: 4,
     title: "Justice league",
     description:"this movie will take 1 cause batman is cool",
     posterURL: "https://www.ubuy.tn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODE4ZGJQNEFrdEwuX0FDX1NMMTUwMF8uanBn.jpg",
     rating: 1,
-    trailer:"https://www.youtube.com/watch?v=3cxixDgHUYw"
+    trailer:"https://www.youtube.com/embed/VzDt7uBBIOI"
  }
 ];

@@ -1,6 +1,6 @@
 import { Params, useParams } from "react-router-dom";
 
-const MovieInfo = (Movie) => {
+const MovieInfo = ({Movie}) => {
   const { idmovie } = useParams();
   const movie = Movie.find((el) => el.id == idmovie);
   return (
